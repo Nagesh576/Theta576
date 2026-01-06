@@ -12,3 +12,4 @@ plt.title('Hours Studied per Semester')
 plt.xlabel('Semester')
 plt.ylabel('Hours Studied')
 plt.show()
+#Python Program
