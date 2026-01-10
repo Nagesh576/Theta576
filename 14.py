@@ -1,6 +1,7 @@
+#import libraries
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
-
+#inserting data to it
 data = {
     "age": [25, 30, 35, 40, 45],
     "height": [150, 160, 170, 180, 190],
