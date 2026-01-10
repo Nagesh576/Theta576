@@ -1,3 +1,4 @@
+#import libraries
 import pandas as pd
 sales_data = {
     "Transaction ID": [101, 102, 103, 104],
