@@ -1,4 +1,4 @@
-# importing the 
+# importing
 import pandas as pd
 
 # creating a sample dataframe
