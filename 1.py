@@ -1,6 +1,6 @@
 import pandas as pd
 
-# creating
+# creati
 data = pd.DataFrame({
     'Brand': ['Maruti', 'Hyundai', 'Tata',
               'Mahindra', 'Maruti', 'Hyundai',
